@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Uporabnik\Documents\Denis - Faks 2015-16\Diploma\Android-test\MyHealthApp\app\libs\iHealthLibrary_2.3.0.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="729a0cb316ce5b1a832917ce0bc8abf7ae86305d">
+        <dex dex="C:\Users\Uporabnik\Documents\Denis - Faks 2015-16\Diploma\Android-test\MyHealthApp\app\build\intermediates\pre-dexed\release\iHealthLibrary_2.3.0_7845fc010ad10a1c4cfc9df07a6520d8e59f385a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Uporabnik\Documents\Denis - Faks 2015-16\Diploma\Android-test\MyHealthApp\app\libs\pl2303driver.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="3ba27649469c1d71e1a54c0fd66a0d94856df555">
+        <dex dex="C:\Users\Uporabnik\Documents\Denis - Faks 2015-16\Diploma\Android-test\MyHealthApp\app\build\intermediates\pre-dexed\release\pl2303driver_e5942a777840418a47df0c08260065b2e126eece.jar" />
+    </item>
+    <item
+        jar="C:\Users\Uporabnik\Documents\Denis - Faks 2015-16\Diploma\Android-test\MyHealthApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\Uporabnik\Documents\Denis - Faks 2015-16\Diploma\Android-test\MyHealthApp\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-22.2.1_e3e6682281ccb4744a953fdfc99ff591d38cb693.jar" />
+    </item>
+    <item
+        jar="C:\Users\Uporabnik\Documents\Denis - Faks 2015-16\Diploma\Android-test\MyHealthApp\app\libs\btle.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="76fea124d592b7c5741665d54d674ce6b03674cd">
+        <dex dex="C:\Users\Uporabnik\Documents\Denis - Faks 2015-16\Diploma\Android-test\MyHealthApp\app\build\intermediates\pre-dexed\release\btle_2c61753cf9e7ae732bae2efac50141ac17a4dc16.jar" />
+    </item>
+    <item
+        jar="C:\Users\Uporabnik\Documents\Denis - Faks 2015-16\Diploma\Android-test\MyHealthApp\app\libs\d2xx.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="549d88cce99830dc2ae951a13d5a8b897362351b">
+        <dex dex="C:\Users\Uporabnik\Documents\Denis - Faks 2015-16\Diploma\Android-test\MyHealthApp\app\build\intermediates\pre-dexed\release\d2xx_5b8a23c2822581819e350f940e70c0a86a954737.jar" />
+    </item>
+    <item
+        jar="C:\Users\Uporabnik\Documents\Denis - Faks 2015-16\Diploma\Android-test\MyHealthApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\Uporabnik\Documents\Denis - Faks 2015-16\Diploma\Android-test\MyHealthApp\app\build\intermediates\pre-dexed\release\internal_impl-22.2.1_ab9435af1875e2dd799015bdf40d4b87b1128998.jar" />
+    </item>
+    <item
+        jar="C:\Users\Uporabnik\Documents\Denis - Faks 2015-16\Diploma\Android-test\MyHealthApp\app\libs\smartlinklib3.6.4_product.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="f5a964968f16d2dfe3a6005de3451b52b4a3089c">
+        <dex dex="C:\Users\Uporabnik\Documents\Denis - Faks 2015-16\Diploma\Android-test\MyHealthApp\app\build\intermediates\pre-dexed\release\smartlinklib3.6.4_product_d65fec69c9f7be36db2ed154648fca0309317a33.jar" />
+    </item>
+    <item
+        jar="C:\Users\Uporabnik\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="24.0.0"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\Uporabnik\Documents\Denis - Faks 2015-16\Diploma\Android-test\MyHealthApp\app\build\intermediates\pre-dexed\release\support-annotations-22.2.1_e731e1ed1f1cb2e6e4acf362fe823cd769d84ef5.jar" />
+    </item>
+
+</items>

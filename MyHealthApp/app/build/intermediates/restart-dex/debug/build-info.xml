@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="21"
+    density="xhdpi"
+    format="7"
+    timestamp="1056712566246755"
+    token="7321173447027282398" >
+
+    <task
+        name="javac"
+        duration="595" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="574" />
+    <task
+        name="verifier"
+        duration="135" />
+
+    <artifact
+        location="C:\Users\Uporabnik\Documents\Denis - Faks 2015-16\Diploma\Android-test\MyHealthApp\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1056712566246755" >
+        <artifact
+            location="C:\Users\Uporabnik\Documents\Denis - Faks 2015-16\Diploma\Android-test\MyHealthApp\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
